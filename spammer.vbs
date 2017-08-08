@@ -1,0 +1,799 @@
+ Set WshShell = WScript.CreateObject("WScript.Shell")
+
+msgString = Inputbox("Enter your message","Spammer")
+
+
+WScript.Sleep(6000)
+WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+ WshShell.SendKeys msgString
+WshShell.SendKeys "{ENTER}"
+WshShell.SendKeys "{ENTER}"
